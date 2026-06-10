@@ -1,4 +1,4 @@
-# Hi, I'm Malcolm Taremwa 👋
+# Hi, I'm Malcom Taremwa 👋
 
 Cybersecurity and Networking student passionate about network security, threat intelligence, security monitoring, and emerging technologies.
 
